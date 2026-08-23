@@ -3059,6 +3059,11 @@ Ustanovení § 62 upravuje výjimečné situace, kdy soukromý veterinární lé
 
 Odstavec 3 řeší situaci naléhavých úkonů nutných v zájmu prevence, zamezení šíření a tlumení nebezpečné nákazy, nebo v zájmu zajištění zdravotní nezávadnosti živočišných produktů, kdy lékař nepotřebuje souhlas chovatele — jde o průlom do jinak smluvní povahy vztahu mezi veterinárním lékařem a chovatelem, odůvodněný převažujícím veřejným zájmem na ochraně před nákazami a bezpečnosti potravního řetězce. Ustanovení tak vyvažuje ochranu profesní a osobní integrity veterinárního lékaře (odst. 1) s ochranou zvířete a veřejného zdraví (odst. 2 a 3), přičemž veřejnoprávní zájem v odst. 3 převažuje nad běžnou dispoziční svobodou chovatele.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 4693/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C53F40B8F4A1572C1257A4E006ABAAA?openDocument) — 19. 4. 2011, kat. A
+  > „Na ambulantní ošetření zvířete v ordinaci veterinárního lékaře se nevztahuje objektivní odpovědnost za škodu na věci převzaté za účelem splnění závazku (§ 421 obč. zák.)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Chovatel odmítá umožnit veterinárnímu lékaři přístup ke stádu s podezřením na nebezpečnou nákazu a odmítá udělit souhlas s provedením potřebných diagnostických úkonů.
